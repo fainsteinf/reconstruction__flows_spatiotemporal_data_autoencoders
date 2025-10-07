@@ -17,4 +17,6 @@ Email: gabo@df.uba.ar
 
 ## References
 
-Fainstein, F., Catoni, J., Elemans, C. P., & Mindlin, G. B. (2023). The reconstruction of flows from spatiotemporal data by autoencoders. Chaos, Solitons & Fractals, 176, 114115.
+1. F. Fainstein, J. Catoni, C. P. Elemans, and G. B. Mindlin. The reconstruction of flows from spatiotemporal data by autoencoders. Chaos, Solitons & Fractals, 176, 114115 (2023).
+
+2. Facundo Fainstein, Josefina Catoni, Coen P. H. Elemans, & Gabriel B. Mindlin. (2023). Data and code for "The reconstruction of flows from spatiotemporal data by autoencoders". https://doi.org/10.5281/zenodo.8252884
